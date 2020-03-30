@@ -1,5 +1,5 @@
 # SekitarKita 
-![Sekitarkita](./res/images/logo.png?raw=true "Logo Sekitarkita") 
+![Sekitarkita](./res/images/logo.png?raw=true "Logo Sekitarkita")<br>
 SekitarKita adalah aplikasi Berbasis Mobile yang membantu anda melakukan Tracking terhadap Titik Singgung anda dengan Orang-Orang terdekat dengan menggunakan Nearby Device Bluetooth. Aplikasi ini sangat berguna untuk melakukan pemetaan dalam pandemi COVID-19.
 
 ## Kenapa Ada Repo Ini?
