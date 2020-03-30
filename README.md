@@ -1,7 +1,5 @@
 # SekitarKita 
-![Sekitarkita](./res/images/logo.png?raw=true "Logo Sekitarkita")
-<a href="https://opensource.org/licenses/MIT)"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+![Sekitarkita](./res/images/logo.png?raw=true "Logo Sekitarkita") 
 SekitarKita adalah aplikasi Berbasis Mobile yang membantu anda melakukan Tracking terhadap Titik Singgung anda dengan Orang-Orang terdekat dengan menggunakan Nearby Device Bluetooth. Aplikasi ini sangat berguna untuk melakukan pemetaan dalam pandemi COVID-19.
 
 ## Kenapa Ada Repo Ini?
